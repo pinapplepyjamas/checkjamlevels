@@ -29,7 +29,7 @@ LH0155,Bournemouth Churches Housing Association Limited ,G1,V2,C2,2025-09-24
 L0702,Bournville Village Trust ,G1,V2,C1,2025-09-24
 LH3887,bpha Limited ,G1,V1,C1,2026-07-29
 22UD,Brentwood Borough Council ,-,-,C2,2025-04-30
-L3758,Brighter Places ,G1,V2,-,2025-11-26
+L3758,Brighter Places ,G1,V2,C2,2026-09-30
 00ML,Brighton and Hove City Council ,-,-,C3,2024-08-09
 00HB,Bristol City Council ,-,-,C3,2024-07-09
 LH4014,Broadacres Housing Association Limited ,G2,V2,C2,2026-01-28
@@ -63,6 +63,7 @@ LH4264,Community Housing Group Limited  (The),G2,V2,C2,2025-11-26
 L2285,Connect Housing Association Limited ,G1,V2,C1,2026-03-25
 LH4353,Connexus Homes Limited ,G2,V2,C3,2026-03-25
 L0147,Cornerstone Housing Limited ,G1,V1,-,2025-12-17
+00HE,Cornwall Council ,-,-,C2,2026-09-30
 L4312,Cottsway Housing Association Limited ,G1,V1,-,2025-11-26
 45UE,Crawley Borough Council ,-,-,C2,2025-07-30
 LH4428,Cross Keys Homes Limited ,G1,V1,C1,2025-11-26
@@ -86,12 +87,12 @@ L4167,Empowering People Inspiring Communities Limited ,G1,V2,C1,2025-07-30
 L4004,English Rural Housing Association Limited ,G1,V1,C2,2026-07-29
 L3535,Estuary Housing Association Limited ,G2,V2,-,2025-11-26
 L4473,Fairhive Homes Limited ,G1,V2,-,2026-01-14
-4582,First Choice Homes Oldham Limited ,G1,V1,-,2025-12-17
+4582,First Choice Homes Oldham Limited ,G1,V1,C2,2026-09-30
 5090,First Garden Cities Homes Limited ,G2,V2,C2,2025-12-17
 29UL,Folkestone and Hythe District Council ,-,-,C1,2026-07-29
 L4528,ForHousing Limited ,G2,V2,-,2025-12-17
 LH4184,Framework Housing Association ,G1,V2,-,2025-11-12
-L4463,Freebridge Community Housing Limited ,G1,V2,-,2026-01-14
+L4463,Freebridge Community Housing Limited ,G1,V2,C2,2026-09-30
 L4502,Futures Housing Group Limited ,G1,V1,-,2025-12-17
 00CH,Gateshead Metropolitan Borough Council ,-,-,C2,2025-04-30
 L0517,Gateway Housing Association Limited ,G1,V1,-,2025-12-17
@@ -102,7 +103,7 @@ LH4402,Golding Homes Limited ,G1,V2,C1,2026-03-25
 24UF,Gosport Borough Council ,-,-,C4,2025-12-17
 4743,Grainger Trust Limited ,G2*,V1*,C2*,2026-06-10
 L4465,Great Places Housing Group Limited ,G1,V2,C1,2025-12-17
-L4509,Greatwell Homes Limited ,G1,V2,-,2025-12-17
+L4509,Greatwell Homes Limited ,G1,V2,C1,2026-09-30
 LH3902,GreenSquareAccord Limited ,G2,V2,C2,2025-10-29
 LH3902,GreenSquareAccord Limited ,G2,V2,C2,2026-05-13
 43UD,Guildford Borough Council ,-,-,C1,2026-03-25
@@ -192,7 +193,7 @@ LH4249,North Devon Homes ,G1,V2,C1,2025-11-12
 32UE,North Kesteven District Council ,-,-,C2,2026-04-29
 LH3859,North London Muslim Housing Association Limited ,G3,V2,C3,2025-08-13
 5129,North Northamptonshire Council ,-,-,C2,2026-02-25
-LH0084,North Star Housing Group ,G1,V1,-,2025-12-17
+LH0084,North Star Housing Group ,G1,V2,C1,2026-09-30
 31UH,North West Leicestershire District Council ,-,-,C2,2025-11-12
 5179,North Yorkshire Council ,-,-,C3,2024-09-13
 00EM,Northumberland County Council ,-,-,C4,2026-02-11
@@ -200,7 +201,8 @@ LH0084,North Star Housing Group ,G1,V1,-,2025-12-17
 4880,Notting Hill Genesis ,G3,V2,C3,2024-11-27
 00FY,Nottingham City Council ,-,-,C2,2026-06-24
 4817,Nottingham Community Housing Association Limited ,G1,V1,C1,2026-01-14
-L4459,NSAH (Alliance Homes) Limited ,G1,V2,-,2025-12-17
+L4459,NSAH (Alliance Homes) Limited ,G1,V2,C2,2026-09-30
+44UC,Nuneaton And Bedworth Borough Council ,-,-,C3,2026-09-30
 L4422,Ocean Housing Group Limited ,G2,V2,-,2026-01-28
 L0717,Octavia Housing ,G3,V3,C3,2024-07-09
 00BP,Oldham Metropolitan Borough Council ,-,-,C3,2025-11-26
@@ -211,7 +213,7 @@ L4486,Ongo Homes Limited ,G1,V1,-,2025-12-17
 L4123,Orbit Group Limited ,G1,V2,-,2025-12-17
 L0028,Orwell Housing Association Limited ,G1,V2,-,2025-11-26
 L4215,Paradigm Housing Group Limited ,G1,V2,-,2026-05-13
-4849,Paragon Asra Housing Limited ,G1,V2,C2,2025-09-24
+4849,Paragon Asra Housing Limited ,G1,V2,C1,2026-09-30
 4878,Peabody Trust ,G1,V2,C2,2026-04-29
 L4505,Phoenix Community Housing Association (Bellingham and Downham) Limited ,G3,V2,C2,2025-10-29
 A4020,Pickering and Ferens Homes ,G1,V1,C1,2025-06-25
@@ -276,6 +278,7 @@ L1556,Stonewater Limited ,G1,V2,C2,2025-08-27
 00HX,Swindon Borough Council ,-,-,C3,2025-05-14
 43UK,Tandridge District Council ,-,-,C4,2025-09-17
 LH4403,Teign Housing ,G1,V2,C2,2025-10-29
+29UN,Thanet District Council ,-,-,C3,2026-09-30
 L4522,Thirteen Housing Group Limited ,G1,V1,C1,2025-11-26
 L4464,Together Housing Group Limited ,G1,V2,C1,2026-01-14
 5065,Torus62 Limited ,G1,V1,C1,2026-04-15
