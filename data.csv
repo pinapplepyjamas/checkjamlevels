@@ -1,6 +1,6 @@
 Reg Code,Landlord,Governance Grade,Viability Grade,Consumer grade,Publication Date
 H1046,Abbeyfield Society  (The),G2,V2,-,2026-04-29
-L4172,Abri Group Limited ,G1,V1,-,2025-11-26
+L4172,Abri Group Limited ,G1,V1,C2,2026-10-14
 L4511,Accent Group Limited ,G1,V1,-,2025-11-12
 L4229,Acis Group Limited ,G1,V2,-,2025-12-17
 LH0280,Advance Housing and Support Limited ,G1,V2,C2,2026-06-24
@@ -15,6 +15,7 @@ L4238,Aspire Housing Limited ,G1,V2,C1,2025-11-26
 L4393,Aster Group Limited ,G1,V2,C1,2026-07-08
 4664,Aves Housing ,-,-,-,2026-07-29
 L4455,B3 Living Limited ,G1,V1,C1,2025-09-24
+42UB,Babergh District Council ,-,-,C2,2026-10-14
 00CC,Barnsley Metropolitan Borough Council ,-,-,C1,2024-10-30
 22UB,Basildon Borough Council ,-,-,C4,2026-04-15
 37UC,Bassetlaw District Council ,-,-,C2,2026-07-29
@@ -32,7 +33,7 @@ LH3887,bpha Limited ,G1,V1,C1,2026-07-29
 L3758,Brighter Places ,G1,V2,C2,2026-09-30
 00ML,Brighton and Hove City Council ,-,-,C3,2024-08-09
 00HB,Bristol City Council ,-,-,C3,2024-07-09
-LH4014,Broadacres Housing Association Limited ,G2,V2,C2,2026-01-28
+LH4014,Broadacres Housing Association Limited ,G2,V2,C1,2026-10-14
 L0026,Broadland Housing Association Limited ,G1,V2,C2,2025-11-26
 L4449,Bromford Flagship LiveWest Limited ,G1,V1,-,2026-02-25
 LH4415,Bromsgrove District Housing Trust Limited ,G1,V2,-,2025-11-12
@@ -104,8 +105,7 @@ LH4402,Golding Homes Limited ,G1,V2,C1,2026-03-25
 4743,Grainger Trust Limited ,G2*,V1*,C2*,2026-06-10
 L4465,Great Places Housing Group Limited ,G1,V2,C1,2025-12-17
 L4509,Greatwell Homes Limited ,G1,V2,C1,2026-09-30
-LH3902,GreenSquareAccord Limited ,G2,V2,C2,2025-10-29
-LH3902,GreenSquareAccord Limited ,G2,V2,C2,2026-05-13
+LH3902,GreenSquareAccord Limited ,G3,V3,C2,2026-10-07
 43UD,Guildford Borough Council ,-,-,C1,2026-03-25
 4729,Guinness Partnership Limited  (The),G1,V2,C1,2026-04-29
 LH0459,Habinteg Housing Association Limited ,G1,V2,C2,2025-09-24
@@ -115,7 +115,7 @@ L0018,Hastoe Housing Association Limited ,G1,V2,C2,2025-11-12
 LH4339,Havebury Housing Partnership  (The),G1,V2,C1,2025-11-12
 4634,Heart of Medway Housing Association Limited ,G1,V1,C1,2025-07-30
 L1538,Hexagon Housing Association Limited ,G2,V2,C2,2025-08-27
-4668,Heylo Housing Registered Provider Limited ,-,-,-,2026-03-19
+4668,Heylo Housing Registered Provider Limited ,G4,V4,-,2026-10-07
 17UH,High Peak Borough Council ,-,-,C2,2024-08-14
 L2179,Hightown Housing Association Limited ,G1,V2,-,2025-11-26
 L3076,Home Group Limited ,G1,V2,-,2025-12-17
@@ -136,6 +136,7 @@ LH4345,Jigsaw Homes Group Limited ,G1,V1,-,2025-12-17
 4846,Karbon Homes Limited ,G1,V1,C2,2025-09-24
 LH3728,Karibu Community Homes Limited ,G2,V2,C2,2026-03-25
 4725,Keystage C.I.C ,-,-,-,2026-09-09
+00CZ,Kirklees Metropolitan Borough Council ,-,-,C3,2026-10-14
 30UH,Lancaster City Council ,-,-,C2,2026-08-12
 00DA,Leeds City Council ,-,-,C2,2026-03-25
 LH0989,Leeds Federated Housing Association Limited ,G1,V2,-,2025-12-17
@@ -179,6 +180,7 @@ L3736,Manningham Housing Association Limited ,G1,V1,-,2025-12-17
 31UG,Melton Borough Council ,-,-,C1,2026-09-09
 L0726,Metropolitan Housing Trust Limited ,G2,V2,C2,2025-11-26
 18UD,Mid Devon District Council ,-,-,-,2025-04-30
+42UE,Mid Suffolk District Council ,-,-,C2,2026-10-14
 L4466,Midland Heart Limited ,G1,V1,C1,2025-12-17
 00MG,Milton Keynes City Council ,-,-,C2,2026-05-13
 L0386,Moat Homes Limited ,G2,V2,C2,2025-11-12
@@ -204,12 +206,11 @@ LH0084,North Star Housing Group ,G1,V2,C1,2026-09-30
 L4459,NSAH (Alliance Homes) Limited ,G1,V2,C2,2026-09-30
 44UC,Nuneaton And Bedworth Borough Council ,-,-,C3,2026-09-30
 L4422,Ocean Housing Group Limited ,G2,V2,-,2026-01-28
-L0717,Octavia Housing ,G3,V3,C3,2024-07-09
 00BP,Oldham Metropolitan Borough Council ,-,-,C3,2025-11-26
 4808,One Manchester Limited ,G1,V2,C1,2025-09-24
 4804,One Vision Housing Limited ,G2,V1,C1,2026-04-15
 L4486,Ongo Homes Limited ,G1,V1,-,2025-12-17
-4649,Onward Group Limited ,G1,V2,-,2025-12-17
+4649,Onward Group Limited ,G1,V2,C1,2026-10-14
 L4123,Orbit Group Limited ,G1,V2,-,2025-12-17
 L0028,Orwell Housing Association Limited ,G1,V2,-,2025-11-26
 L4215,Paradigm Housing Group Limited ,G1,V2,-,2026-05-13
@@ -241,11 +242,12 @@ L4552,Riverside Group Limited  (The),G1,V2,-,2025-12-17
 4607,Rochdale Boroughwide Housing Limited ,G2,V2,-,2026-01-14
 L4404,Rooftop Housing Group Limited ,G1,V2,C2,2025-11-12
 00AW,Royal Borough of Kensington and Chelsea ,-,-,C3,2025-08-27
+00AX,Royal Borough of Kingston Upon Thames ,-,-,C3,2026-10-14
 44UD,Rugby Borough Council ,-,-,C3,2026-05-27
 43UG,Runnymede Borough Council ,-,-,C4,2026-02-25
 LH4412,Saffron Housing Trust Limited ,G1,V2,C1,2025-11-12
-5082,Sage Homes RP Limited ,G1,V2,-,2026-07-29
-5083,Sage Rented Limited ,G1,V2,-,2026-07-29
+5082,Sage Homes RP Limited ,G1*,V2*,-,2026-07-29
+5083,Sage Rented Limited ,G1*,V2*,-,2026-07-29
 00BR,Salford City Council ,-,-,C2,2026-05-13
 4609,Salix Homes Limited ,G1,V2,C1,2025-12-17
 LH2429,Salvation Army Housing Association ,G1,V2,C2,2025-11-26
@@ -267,7 +269,7 @@ L4230,South Liverpool Homes Limited ,G1,V1,C1,2025-11-12
 00BE,Southwark Council ,-,-,C3,2024-11-27
 L4507,Southway Housing Trust (Manchester) Limited ,G2,V2,C2,2025-06-25
 4837,Sovereign Network Group ,G1,V2,C2,2026-01-28
-4636,Sparrow Shared Ownership Limited ,G1,V1,C1,2026-07-29
+4636,Sparrow Shared Ownership Limited ,G1*,V1*,C1*,2026-07-29
 26UG,St Albans City and District Council ,-,-,C2,2026-01-28
 LH0279,St Mungo Community Housing Association ,G2,V2,C2,2025-11-26
 26UH,Stevenage Borough Council ,-,-,C2,2024-11-27
@@ -296,6 +298,7 @@ L0518,Warrington Housing Association Limited ,G1,V1,C2,2026-06-24
 L4495,Watford Community Housing Trust ,G1,V2,-,2026-08-26
 L4383,Watmos Community Homes ,G1,V2,C1,2025-12-17
 43UL,Waverley Borough Council ,-,-,C2,2025-02-26
+21UH,Wealden District Council ,-,-,C1,2026-10-14
 L4341,Weaver Vale Housing Trust Limited ,G1,V1,C1,2025-11-12
 LH3827,West Kent Housing Association ,G1,V2,-,2025-12-17
 30UP,West Lancashire Borough Council ,-,-,C1,2025-02-26
